@@ -1,5 +1,5 @@
 # QuestaoRevistaPoo
-Repositório para Questão 19 ProvaProgramação orientada á objetos
+Repositório para Questão 19 da Prova de Programação orientada á objetos
 # Instruções
 1º Clone o Repositório
 2º Execute-o em sua IDE
